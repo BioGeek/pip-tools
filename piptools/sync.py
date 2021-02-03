@@ -25,6 +25,7 @@ PACKAGES_TO_IGNORE = [
     "pip-tools",
     "pip-review",
     "pkg-resources",
+    "pycosat",
     *stdlib_pkgs,
     *DEV_PKGS,
 ]
